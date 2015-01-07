@@ -1,0 +1,17 @@
+Team Awesome
+Michael Tan - michaeltan@uga.edu
+Victoria Nikolich (Team Leader) - nikolich@uga.edu
+Shovik Shyamsundar - shovik@uga.edu
+Germanno Domingues -  germanno.domingues@gmail.com
+
+Project 2 - CSCI 4370 Databases - Arpinar
+
+Included in our project 2, is all the source code needed to run our project.
+Our project is tested working with Java 1.8 in Eclipse IDE. The project should run
+without issues by just compiling and running with Java 1.8 on Eclipse.
+
+Included is four folders, LinHash&Table, ExtHash&Table, BpTree&Table, and 'Maps with main functions'. The folders LinHash&Table, ExtHash&Table, and BpTree&Table contain an edited version of the Table.java class from project1 that implements each Map type for the class variable index. The map classes in each of those folders does not have a main method. The folder Maps with main functions' contains the map classes with their main methods.
+
+Please let us know if there are any issues or questions.
+
+Thank you.
